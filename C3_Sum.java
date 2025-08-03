@@ -10,11 +10,13 @@ public class C3_Sum
         int num2=scanner.nextInt();
         int sum=num1+num2;
         System.out.println("The sum is: " + sum);
+        scanner.close();
     }
     public static void main(String[] args)
     {
         C3_Sum obj=new C3_Sum();
         obj.calculateSum();
+        
     }
 
      
