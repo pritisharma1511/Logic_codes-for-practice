@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//commit check
 public class C2_Name_of_User
 {
     public void NameofUser()
